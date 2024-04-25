@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RegistrationApp</string>
+    <string-array name="subjects_array">
+        <item>Mathematics</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Biology</item>
+    </string-array>
+</resources>
